@@ -1,0 +1,885 @@
+﻿Log file open, 07/08/20 19:33:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Genearator
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.112892
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=thatssocreepy -epicuserid=379766a7f4a647d5b205772f43f2fc7c -epiclocale=en
+LogInit: Base Directory: C:/unreal/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.07.08-18.34.00:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.08-18.34.00:138][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.08-18.34.00:139][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.08-18.34.00:139][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.07.08-18.34.00:139][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.07.08-18.34.00:144][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:144][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.08-18.34.00:144][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.08-18.34.00:144][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:144][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.08-18.34.00:145][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.08-18.34.00:146][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.08-18.34.00:147][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.08-18.34.00:147][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.08-18.34.00:147][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.08-18.34.00:150][  0]LogHAL: Display: Platform has ~ 24 GB [25648930816 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.08-18.34.00:150][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.08-18.34.00:150][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:150][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.08-18.34.00:150][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.08-18.34.00:150][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:150][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.08-18.34.00:150][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:150][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.08-18.34.00:150][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.08-18.34.00:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.08-18.34.00:152][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.08-18.34.00:153][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.07.08-18.34.00:153][  0]LogInit: Computer: LAPTOP-J8BE93RO
+[2020.07.08-18.34.00:154][  0]LogInit: User: Anju
+[2020.07.08-18.34.00:154][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.08-18.34.00:154][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.08-18.34.00:154][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2020.07.08-18.34.00:154][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.08-18.34.00:154][  0]LogMemory: Process Physical Memory: 105.11 MB used, 105.12 MB peak
+[2020.07.08-18.34.00:154][  0]LogMemory: Process Virtual Memory: 100.56 MB used, 100.57 MB peak
+[2020.07.08-18.34.00:154][  0]LogMemory: Physical Memory: 6232.29 MB used,  18228.43 MB free, 24460.73 MB total
+[2020.07.08-18.34.00:154][  0]LogMemory: Virtual Memory: 5104.98 MB used,  134212624.00 MB free, 134217728.00 MB total
+[2020.07.08-18.34.00:157][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.08-18.34.00:186][  0]LogInit: Using OS detected language (en-GB).
+[2020.07.08-18.34.00:187][  0]LogInit: Using OS detected locale (en-GB).
+[2020.07.08-18.34.00:188][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.07.08-18.34.00:392][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.08-18.34.00:433][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.08-18.34.00:433][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.08-18.34.00:662][  0]LogD3D12RHI: Aftermath initialized
+[2020.07.08-18.34.00:662][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/DirectX/x64).
+[2020.07.08-18.34.00:726][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.08-18.34.00:893][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1050 Ti (Max supported Feature Level 12_1)
+[2020.07.08-18.34.00:893][  0]LogD3D12RHI: Adapter has 4021MB of dedicated video memory, 0MB of dedicated system memory, and 12230MB of shared system memory, 1 output[s]
+[2020.07.08-18.34.00:940][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) HD Graphics 630 (Max supported Feature Level 12_1)
+[2020.07.08-18.34.00:940][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 12230MB of shared system memory, 0 output[s]
+[2020.07.08-18.34.00:958][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2020.07.08-18.34.00:958][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 12230MB of shared system memory, 0 output[s]
+[2020.07.08-18.34.00:958][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2020.07.08-18.34.00:958][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2020.07.08-18.34.01:023][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2020.07.08-18.34.01:114][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2020.07.08-18.34.01:115][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2020.07.08-18.34.01:252][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2020.07.08-18.34.01:252][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2020.07.08-18.34.01:255][  0]LogD3D12RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.07.08-18.34.01:255][  0]LogWindows: EnumDisplayDevices:
+[2020.07.08-18.34.01:255][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.07.08-18.34.01:256][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.07.08-18.34.01:256][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.07.08-18.34.01:256][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.07.08-18.34.01:256][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.07.08-18.34.01:256][  0]LogD3D12RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.07.08-18.34.01:257][  0]LogD3D12RHI:      Driver Date: Unknown
+[2020.07.08-18.34.01:257][  0]LogRHI: Texture pool is 2153 MB (70% of 3076 MB)
+[2020.07.08-18.34.01:257][  0]LogD3D12RHI: Async texture creation enabled
+[2020.07.08-18.34.01:257][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2020.07.08-18.34.01:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.08-18.34.01:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.08-18.34.01:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.08-18.34.01:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.07.08-18.34.01:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.08-18.34.01:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.07.08-18.34.01:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.07.08-18.34.01:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.08-18.34.01:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.07.08-18.34.01:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.08-18.34.01:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.08-18.34.01:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.07.08-18.34.01:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.08-18.34.01:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.08-18.34.01:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.08-18.34.01:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.08-18.34.01:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.08-18.34.01:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.08-18.34.01:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.08-18.34.01:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.08-18.34.01:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.08-18.34.01:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.08-18.34.01:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.08-18.34.01:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.08-18.34.01:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.08-18.34.01:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.08-18.34.01:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.08-18.34.01:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.08-18.34.01:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.08-18.34.01:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.08-18.34.01:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.08-18.34.01:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.08-18.34.01:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.08-18.34.01:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.08-18.34.01:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.08-18.34.01:872][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.08-18.34.01:876][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.08-18.34.01:908][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (D:/Desktop/street generator/Generator/Genearator/Intermediate/Shaders/WorkingDirectory/10516/).
+[2020.07.08-18.34.01:909][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/thats/AppData/Local/Temp/UnrealShaderWorkingDir/A89DCA5B46A1F1957034908236CEAD01/'.
+[2020.07.08-18.34.01:909][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.08-18.34.01:909][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.08-18.34.01:909][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.08-18.34.02:780][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.08-18.34.02:867][  0]LogDerivedDataCache: Loaded boot cache 0.09s 112MB C:/Users/thats/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.08-18.34.02:867][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/thats/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.07.08-18.34.02:867][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Desktop/street generator/Generator/Genearator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.08-18.34.02:867][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.08-18.34.02:867][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Desktop/street generator/Generator/Genearator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.08-18.34.02:867][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.08-18.34.02:878][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.08-18.34.02:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.08-18.34.02:878][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.08-18.34.02:880][  0]LogDerivedDataCache: Using Local data cache path C:/Users/thats/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.08-18.34.02:880][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.08-18.34.02:880][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.08-18.34.02:919][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.08-18.34.02:922][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.08-18.34.02:922][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.08-18.34.02:991][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.07.08-18.34.03:370][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.08-18.34.03:577][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.08-18.34.03:577][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.08-18.34.03:577][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.08-18.34.03:578][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.08-18.34.03:578][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.08-18.34.03:594][  0]LogNetVersion: Genearator 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 298554543)
+[2020.07.08-18.34.04:919][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.075512 seconds
+[2020.07.08-18.34.04:930][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.07.08-18.34.04:930][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.07.08-18.34.04:931][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.08-18.34.05:417][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.08-18.34.05:516][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.08-18.34.05:580][  0]SourceControl: Source control is disabled
+[2020.07.08-18.34.05:580][  0]SourceControl: Source control is disabled
+[2020.07.08-18.34.05:581][  0]SourceControl: Source control is disabled
+[2020.07.08-18.34.05:583][  0]SourceControl: Source control is disabled
+[2020.07.08-18.34.05:584][  0]SourceControl: Source control is disabled
+[2020.07.08-18.34.05:683][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.08-18.34.05:696][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.08-18.34.05:697][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.08-18.34.05:803][  0]LogOcInput: OculusInput pre-init called
+[2020.07.08-18.34.05:813][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.08-18.34.05:813][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.08-18.34.05:890][  0]LogEngine: Initializing Engine...
+[2020.07.08-18.34.05:891][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.08-18.34.05:893][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.08-18.34.06:299][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.08-18.34.06:307][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.08-18.34.06:309][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.08-18.34.06:309][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.08-18.34.06:309][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.08-18.34.06:309][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.08-18.34.06:309][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.08-18.34.06:309][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.08-18.34.06:309][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.08-18.34.06:309][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.08-18.34.06:310][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.08-18.34.06:310][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.08-18.34.06:371][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.08-18.34.06:371][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.07.08-18.34.06:371][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.07.08-18.34.06:371][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.08-18.34.06:371][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.08-18.34.06:371][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.08-18.34.06:371][  0]LogAudioMixer: Display: Channel Order:
+[2020.07.08-18.34.06:371][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.08-18.34.06:371][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.08-18.34.06:476][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.07.08-18.34.06:480][  0]LogInit: FAudioDevice initialized.
+[2020.07.08-18.34.06:481][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.08-18.34.06:799][  0]LogDerivedDataCache: Saved boot cache 0.32s 112MB C:/Users/thats/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.08-18.34.06:803][  0]LogInit: Texture streaming: Enabled
+[2020.07.08-18.34.06:817][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.08-18.34.06:817][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.08-18.34.06:829][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.08-18.34.06:845][  0]LogInit: Transaction tracking system initialized
+[2020.07.08-18.34.06:858][  0]BlueprintLog: New page: Editor Load
+[2020.07.08-18.34.06:893][  0]LocalizationService: Localization service is disabled
+[2020.07.08-18.34.07:299][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/street generator/Generator/Genearator/Content/' took 0.01s
+[2020.07.08-18.34.07:299][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.08-18.34.07:299][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.08-18.34.08:133][  0]SourceControl: Source control is disabled
+[2020.07.08-18.34.09:260][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/unreal/UE_4.24/FeaturePacks/StarterContent.upack)
+[2020.07.08-18.34.09:653][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.07.08-18.34.09:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.07.08-18.34.09:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.07.08-18.34.09:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.07.08-18.34.09:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.07.08-18.34.09:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.07.08-18.34.09:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.07.08-18.34.09:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.07.08-18.34.09:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.07.08-18.34.09:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.07.08-18.34.09:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.07.08-18.34.09:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.07.08-18.34.09:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.07.08-18.34.09:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.07.08-18.34.09:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.07.08-18.34.09:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.07.08-18.34.09:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.07.08-18.34.09:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.07.08-18.34.09:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Fire01.uasset"
+[2020.07.08-18.34.09:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.07.08-18.34.09:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.07.08-18.34.09:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.07.08-18.34.09:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Light01.uasset"
+[2020.07.08-18.34.09:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.07.08-18.34.09:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Light02.uasset"
+[2020.07.08-18.34.09:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.07.08-18.34.09:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.07.08-18.34.09:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.07.08-18.34.09:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.07.08-18.34.09:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.07.08-18.34.09:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.07.08-18.34.09:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.07.08-18.34.09:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.07.08-18.34.09:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.07.08-18.34.09:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Steam01.uasset"
+[2020.07.08-18.34.09:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.07.08-18.34.09:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.07.08-18.34.09:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.07.08-18.34.09:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.07.08-18.34.09:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.07.08-18.34.09:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.07.08-18.34.09:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.07.08-18.34.09:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.07.08-18.34.09:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.07.08-18.34.09:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.07.08-18.34.09:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.07.08-18.34.09:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.07.08-18.34.09:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.07.08-18.34.09:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.07.08-18.34.09:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.07.08-18.34.09:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.07.08-18.34.09:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.07.08-18.34.09:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.07.08-18.34.09:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.07.08-18.34.09:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.07.08-18.34.09:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.07.08-18.34.09:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.07.08-18.34.09:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Maps/StarterMap.umap"
+[2020.07.08-18.34.09:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.07.08-18.34.09:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.07.08-18.34.09:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.07.08-18.34.09:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.07.08-18.34.09:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.07.08-18.34.09:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.07.08-18.34.09:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.07.08-18.34.09:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.07.08-18.34.09:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.07.08-18.34.09:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.07.08-18.34.09:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.07.08-18.34.09:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.07.08-18.34.09:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.07.08-18.34.09:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.07.08-18.34.09:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.07.08-18.34.09:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.07.08-18.34.09:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.07.08-18.34.09:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.07.08-18.34.09:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.07.08-18.34.09:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.07.08-18.34.09:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.07.08-18.34.09:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.07.08-18.34.09:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.07.08-18.34.09:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.07.08-18.34.09:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.07.08-18.34.09:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.07.08-18.34.09:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.07.08-18.34.09:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.07.08-18.34.09:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.07.08-18.34.09:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.07.08-18.34.09:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.07.08-18.34.09:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.07.08-18.34.09:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.07.08-18.34.09:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.07.08-18.34.09:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.07.08-18.34.09:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.07.08-18.34.09:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.07.08-18.34.09:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.07.08-18.34.09:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.07.08-18.34.09:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.07.08-18.34.09:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.07.08-18.34.09:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.07.08-18.34.09:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.07.08-18.34.09:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.07.08-18.34.09:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.07.08-18.34.09:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.07.08-18.34.09:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.07.08-18.34.09:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.07.08-18.34.09:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.07.08-18.34.09:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.07.08-18.34.09:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.07.08-18.34.09:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.07.08-18.34.09:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.07.08-18.34.09:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.07.08-18.34.09:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.07.08-18.34.09:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.07.08-18.34.09:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.07.08-18.34.09:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.07.08-18.34.09:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.07.08-18.34.09:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.07.08-18.34.09:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.07.08-18.34.09:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.07.08-18.34.09:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.07.08-18.34.09:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.07.08-18.34.09:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.07.08-18.34.09:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_Door.uasset"
+[2020.07.08-18.34.09:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.07.08-18.34.10:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.07.08-18.34.10:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.07.08-18.34.10:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.07.08-18.34.10:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.07.08-18.34.10:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.07.08-18.34.10:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.07.08-18.34.10:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.07.08-18.34.10:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.07.08-18.34.10:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.07.08-18.34.10:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.07.08-18.34.10:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.07.08-18.34.10:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.07.08-18.34.10:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.07.08-18.34.10:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.07.08-18.34.10:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.07.08-18.34.10:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.07.08-18.34.10:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.07.08-18.34.10:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.07.08-18.34.10:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.07.08-18.34.10:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.07.08-18.34.10:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.07.08-18.34.10:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.07.08-18.34.10:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.07.08-18.34.10:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.07.08-18.34.10:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.07.08-18.34.10:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.07.08-18.34.10:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.07.08-18.34.10:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.07.08-18.34.10:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.07.08-18.34.10:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.07.08-18.34.10:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.07.08-18.34.10:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.07.08-18.34.10:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.07.08-18.34.10:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.07.08-18.34.10:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.07.08-18.34.10:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.07.08-18.34.10:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.07.08-18.34.10:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.07.08-18.34.10:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.07.08-18.34.10:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.07.08-18.34.10:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.07.08-18.34.10:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.07.08-18.34.10:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.07.08-18.34.10:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.07.08-18.34.10:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.07.08-18.34.10:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.07.08-18.34.10:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.07.08-18.34.10:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.07.08-18.34.10:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.07.08-18.34.10:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.07.08-18.34.10:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.07.08-18.34.10:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.07.08-18.34.10:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.07.08-18.34.10:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.07.08-18.34.10:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.07.08-18.34.10:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.07.08-18.34.10:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.07.08-18.34.10:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.07.08-18.34.10:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.07.08-18.34.10:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.07.08-18.34.10:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.07.08-18.34.10:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.07.08-18.34.10:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.07.08-18.34.10:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.07.08-18.34.10:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.07.08-18.34.10:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.07.08-18.34.10:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.07.08-18.34.10:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.07.08-18.34.10:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.07.08-18.34.10:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.07.08-18.34.10:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.07.08-18.34.10:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.07.08-18.34.10:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.07.08-18.34.10:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.07.08-18.34.10:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.07.08-18.34.10:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.07.08-18.34.10:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.07.08-18.34.10:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.07.08-18.34.10:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.07.08-18.34.10:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.07.08-18.34.10:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.07.08-18.34.10:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.07.08-18.34.10:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.07.08-18.34.10:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.07.08-18.34.10:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.07.08-18.34.10:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.07.08-18.34.10:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.07.08-18.34.10:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.07.08-18.34.10:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.07.08-18.34.10:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.07.08-18.34.10:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.07.08-18.34.10:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.07.08-18.34.10:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.07.08-18.34.10:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.07.08-18.34.10:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.07.08-18.34.10:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.07.08-18.34.10:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.07.08-18.34.10:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.07.08-18.34.10:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.07.08-18.34.10:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.07.08-18.34.10:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.07.08-18.34.10:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.07.08-18.34.10:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.07.08-18.34.10:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.07.08-18.34.10:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.07.08-18.34.10:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.07.08-18.34.10:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.07.08-18.34.10:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.07.08-18.34.10:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.07.08-18.34.10:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.07.08-18.34.10:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.07.08-18.34.10:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.07.08-18.34.10:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.07.08-18.34.10:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.07.08-18.34.10:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.07.08-18.34.10:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.07.08-18.34.10:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.07.08-18.34.10:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.07.08-18.34.10:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.07.08-18.34.10:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.07.08-18.34.10:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.07.08-18.34.10:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.07.08-18.34.10:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.07.08-18.34.10:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.07.08-18.34.10:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.07.08-18.34.10:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.07.08-18.34.10:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.07.08-18.34.10:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.07.08-18.34.10:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.07.08-18.34.10:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.07.08-18.34.10:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.07.08-18.34.10:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.07.08-18.34.10:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.07.08-18.34.10:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.07.08-18.34.10:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.07.08-18.34.10:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.07.08-18.34.10:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.07.08-18.34.10:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.07.08-18.34.10:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.07.08-18.34.10:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.07.08-18.34.10:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.07.08-18.34.10:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.07.08-18.34.10:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.07.08-18.34.10:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.07.08-18.34.10:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.07.08-18.34.10:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.07.08-18.34.10:927][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.07.08-18.34.11:174][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2020.07.08-18.34.11:198][  0]LogSavePackage: Moving 'D:/Desktop/street generator/Generator/Genearator/Saved/Floor_400x40081D8B4B24115E1BADA4041988B3DEAF2.tmp' to 'D:/Desktop/street generator/Generator/Genearator/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.07.08-18.34.11:212][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.07.08-18.34.11:214][  0]Cmd: MAP LOAD FILE="D:/Desktop/street generator/Generator/Genearator/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.08-18.34.11:215][  0]LightingResults: New page: Lighting Build
+[2020.07.08-18.34.11:215][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.08-18.34.11:216][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.08-18.34.11:216][  0]MapCheck: New page: Map Check
+[2020.07.08-18.34.11:216][  0]LightingResults: New page: Lighting Build
+[2020.07.08-18.34.11:243][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.07.08-18.34.29:029][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.08-18.34.29:043][  0]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair needed to have new flag set bUsedWithSplineMeshes !
+[2020.07.08-18.34.29:311][  0]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.07.08-18.34.29:393][  0]MapCheck: Warning: M_Chair Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair was missing the usage flag bUsedWithSplineMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.07.08-18.36.00:113][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2020.07.08-18.36.00:113][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2020.07.08-18.36.00:113][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.07.08-18.36.00:113][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.07.08-18.36.00:113][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 11
+[2020.07.08-18.36.00:113][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 1
+[2020.07.08-18.36.00:113][  0]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2020.07.08-18.36.00:113][  0]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 3323686912
+	 AvailableVirtual 140714584526848
+	     UsedPhysical 16165015552
+	 PeakUsedPhysical 16165019648
+	      UsedVirtual 17115361280
+	  PeakUsedVirtual 17120608256
+[2020.07.08-18.36.00:113][  0]Allocator Stats for TBB: (not implemented)
+[2020.07.08-18.36.00:113][  0]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+Road_4_C.StreetLamps
+Road_4_C.UserConstructionScript
+
+[2020.07.08-18.36.00:113][  0]LogWindows: Windows GetLastError: The operation completed successfully. (0)

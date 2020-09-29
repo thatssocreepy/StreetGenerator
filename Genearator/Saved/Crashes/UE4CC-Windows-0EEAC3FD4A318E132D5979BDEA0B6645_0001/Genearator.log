@@ -1,0 +1,1040 @@
+﻿Log file open, 06/30/20 07:37:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Genearator
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.086644
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=thatssocreepy -epicuserid=379766a7f4a647d5b205772f43f2fc7c -epiclocale=en
+LogInit: Base Directory: D:/Epic/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.30-06.37.43:420][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.30-06.37.43:420][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.30-06.37.43:420][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.06.30-06.37.43:420][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.30-06.37.43:420][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.06.30-06.37.43:421][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.30-06.37.43:421][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.30-06.37.43:422][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.30-06.37.43:422][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.06.30-06.37.43:422][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.06.30-06.37.43:425][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:425][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.30-06.37.43:425][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.30-06.37.43:425][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:425][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.30-06.37.43:425][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:425][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.30-06.37.43:425][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.30-06.37.43:425][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.30-06.37.43:425][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.30-06.37.43:425][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.30-06.37.43:425][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.30-06.37.43:425][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.30-06.37.43:426][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.30-06.37.43:427][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.30-06.37.43:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.30-06.37.43:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.30-06.37.43:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.30-06.37.43:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.30-06.37.43:428][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:428][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.30-06.37.43:428][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.30-06.37.43:428][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:428][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.30-06.37.43:428][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.30-06.37.43:428][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.30-06.37.43:428][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.30-06.37.43:428][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.30-06.37.43:431][  0]LogHAL: Display: Platform has ~ 24 GB [25648930816 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.30-06.37.43:431][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.30-06.37.43:431][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.30-06.37.43:431][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.30-06.37.43:432][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Scalability.ini]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.30-06.37.43:433][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Desktop/street generator/Generator/Genearator/Saved/Config/Windows/Engine.ini]
+[2020.06.30-06.37.43:433][  0]LogInit: Computer: LAPTOP-J8BE93RO
+[2020.06.30-06.37.43:434][  0]LogInit: User: Anju
+[2020.06.30-06.37.43:434][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.30-06.37.43:434][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.30-06.37.43:434][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2020.06.30-06.37.43:434][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.30-06.37.43:434][  0]LogMemory: Process Physical Memory: 106.12 MB used, 106.12 MB peak
+[2020.06.30-06.37.43:434][  0]LogMemory: Process Virtual Memory: 100.50 MB used, 100.51 MB peak
+[2020.06.30-06.37.43:434][  0]LogMemory: Physical Memory: 9474.11 MB used,  14986.62 MB free, 24460.73 MB total
+[2020.06.30-06.37.43:434][  0]LogMemory: Virtual Memory: 5104.98 MB used,  134212624.00 MB free, 134217728.00 MB total
+[2020.06.30-06.37.43:437][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.30-06.37.43:458][  0]LogInit: Using OS detected language (en-GB).
+[2020.06.30-06.37.43:458][  0]LogInit: Using OS detected locale (en-GB).
+[2020.06.30-06.37.43:459][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.06.30-06.37.43:626][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.30-06.37.43:665][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.30-06.37.43:666][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.30-06.37.43:930][  0]LogD3D12RHI: Aftermath initialized
+[2020.06.30-06.37.43:930][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/DirectX/x64).
+[2020.06.30-06.37.44:018][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.30-06.37.44:164][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1050 Ti (Max supported Feature Level 12_1)
+[2020.06.30-06.37.44:164][  0]LogD3D12RHI: Adapter has 4021MB of dedicated video memory, 0MB of dedicated system memory, and 12230MB of shared system memory, 1 output[s]
+[2020.06.30-06.37.44:194][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) HD Graphics 630 (Max supported Feature Level 12_1)
+[2020.06.30-06.37.44:194][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 12230MB of shared system memory, 0 output[s]
+[2020.06.30-06.37.44:205][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2020.06.30-06.37.44:205][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 12230MB of shared system memory, 0 output[s]
+[2020.06.30-06.37.44:205][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2020.06.30-06.37.44:205][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2020.06.30-06.37.44:269][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2020.06.30-06.37.44:352][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2020.06.30-06.37.44:352][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2020.06.30-06.37.44:468][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2020.06.30-06.37.44:468][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2020.06.30-06.37.44:471][  0]LogD3D12RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.06.30-06.37.44:471][  0]LogWindows: EnumDisplayDevices:
+[2020.06.30-06.37.44:471][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.06.30-06.37.44:471][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.06.30-06.37.44:472][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.06.30-06.37.44:472][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.06.30-06.37.44:472][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.06.30-06.37.44:472][  0]LogD3D12RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.06.30-06.37.44:472][  0]LogD3D12RHI:      Driver Date: Unknown
+[2020.06.30-06.37.44:472][  0]LogRHI: Texture pool is 2153 MB (70% of 3076 MB)
+[2020.06.30-06.37.44:472][  0]LogD3D12RHI: Async texture creation enabled
+[2020.06.30-06.37.44:473][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2020.06.30-06.37.44:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.06.30-06.37.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.06.30-06.37.44:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.06.30-06.37.44:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.06.30-06.37.44:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.30-06.37.44:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.06.30-06.37.44:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.06.30-06.37.44:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.06.30-06.37.44:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.06.30-06.37.44:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.06.30-06.37.44:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.06.30-06.37.44:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.06.30-06.37.44:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.06.30-06.37.44:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.06.30-06.37.44:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.30-06.37.45:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.06.30-06.37.45:011][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.06.30-06.37.45:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.06.30-06.37.45:018][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.30-06.37.45:021][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.30-06.37.45:041][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Desktop/street generator/Generator/Genearator/Intermediate/Shaders/WorkingDirectory/10920/).
+[2020.06.30-06.37.45:041][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/thats/AppData/Local/Temp/UnrealShaderWorkingDir/E4E5D8C945AA5E21D6E569824E8A19AB/'.
+[2020.06.30-06.37.45:042][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.30-06.37.45:042][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.30-06.37.45:042][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.30-06.37.45:829][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.30-06.37.45:903][  0]LogDerivedDataCache: Loaded boot cache 0.07s 112MB C:/Users/thats/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.30-06.37.45:903][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/thats/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.06.30-06.37.45:904][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Desktop/street generator/Generator/Genearator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.30-06.37.45:904][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.30-06.37.45:904][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Desktop/street generator/Generator/Genearator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.30-06.37.45:904][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.30-06.37.45:914][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.30-06.37.45:914][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.30-06.37.45:914][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.30-06.37.45:916][  0]LogDerivedDataCache: Using Local data cache path C:/Users/thats/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.30-06.37.45:916][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.30-06.37.45:916][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.30-06.37.45:956][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.30-06.37.45:958][  0]LogSlate: Using FreeType 2.10.0
+[2020.06.30-06.37.45:959][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.30-06.37.46:017][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2020.06.30-06.37.46:330][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.30-06.37.46:497][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.30-06.37.46:497][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.30-06.37.46:497][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.30-06.37.46:497][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.30-06.37.46:498][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.30-06.37.46:508][  0]LogNetVersion: Genearator 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 298554543)
+[2020.06.30-06.37.47:723][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.100376 seconds
+[2020.06.30-06.37.47:730][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.06.30-06.37.47:730][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.06.30-06.37.47:730][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.30-06.37.48:138][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.30-06.37.48:140][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.30-06.37.48:199][  0]SourceControl: Source control is disabled
+[2020.06.30-06.37.48:199][  0]SourceControl: Source control is disabled
+[2020.06.30-06.37.48:200][  0]SourceControl: Source control is disabled
+[2020.06.30-06.37.48:201][  0]SourceControl: Source control is disabled
+[2020.06.30-06.37.48:202][  0]SourceControl: Source control is disabled
+[2020.06.30-06.37.48:282][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.30-06.37.48:291][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.30-06.37.48:291][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.30-06.37.48:376][  0]LogOcInput: OculusInput pre-init called
+[2020.06.30-06.37.48:383][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.06.30-06.37.48:383][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.06.30-06.37.48:450][  0]LogEngine: Initializing Engine...
+[2020.06.30-06.37.48:452][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.30-06.37.48:452][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.30-06.37.48:810][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.30-06.37.48:817][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.30-06.37.48:823][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-06.37.48:823][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-06.37.48:823][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-06.37.48:823][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-06.37.48:823][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-06.37.48:823][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-06.37.48:823][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-06.37.48:823][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-06.37.48:824][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-06.37.48:824][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-06.37.48:848][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.30-06.37.48:848][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.30-06.37.48:848][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.06.30-06.37.48:848][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.30-06.37.48:848][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.30-06.37.48:848][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.30-06.37.48:848][  0]LogAudioMixer: Display: Channel Order:
+[2020.06.30-06.37.48:848][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-06.37.48:848][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-06.37.48:932][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.06.30-06.37.48:937][  0]LogInit: FAudioDevice initialized.
+[2020.06.30-06.37.48:937][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.30-06.37.49:000][  0]LogDerivedDataCache: Saved boot cache 0.06s 112MB C:/Users/thats/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.30-06.37.49:005][  0]LogInit: Texture streaming: Enabled
+[2020.06.30-06.37.49:018][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.30-06.37.49:018][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.30-06.37.49:028][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.30-06.37.49:111][  0]LogInit: Transaction tracking system initialized
+[2020.06.30-06.37.49:119][  0]BlueprintLog: New page: Editor Load
+[2020.06.30-06.37.49:145][  0]LocalizationService: Localization service is disabled
+[2020.06.30-06.37.49:464][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/street generator/Generator/Genearator/Content/' took 0.01s
+[2020.06.30-06.37.49:464][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.30-06.37.49:464][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.30-06.37.50:211][  0]SourceControl: Source control is disabled
+[2020.06.30-06.37.50:211][  0]Cmd: MAP LOAD FILE="../../../../../../Desktop/street generator/Generator/Genearator/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.30-06.37.50:258][  0]LightingResults: New page: Lighting Build
+[2020.06.30-06.37.50:258][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-06.37.50:258][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-06.37.50:258][  0]MapCheck: New page: Map Check
+[2020.06.30-06.37.50:259][  0]LightingResults: New page: Lighting Build
+[2020.06.30-06.37.50:285][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.06.30-06.37.51:642][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.30-06.37.52:035][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.30-06.37.52:070][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.06.30-06.37.52:070][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.30-06.37.52:071][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2020.06.30-06.37.52:071][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.860
+[2020.06.30-06.37.52:491][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-06.37.52:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-06.37.52:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-06.37.52:527][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-06.37.52:600][  0]LogCollectionManager: Loaded 0 collections in 0.001823 seconds
+[2020.06.30-06.37.52:662][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/street generator/Generator/Genearator/Saved/Collections/' took 0.00s
+[2020.06.30-06.37.52:662][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/street generator/Generator/Genearator/Content/Developers/Anju/Collections/' took 0.00s
+[2020.06.30-06.37.52:662][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/street generator/Generator/Genearator/Content/Collections/' took 0.00s
+[2020.06.30-06.37.52:662][  0]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 3015 classes and 717 folders.
+[2020.06.30-06.37.52:691][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.30-06.37.53:337][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.30-06.37.53:427][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.06.30-06.37.54:047][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.30-06.37.54:050][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.30-06.37.54:087][  0]LogSlate: Took 0.015473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.30-06.37.54:497][  0]LogRenderer: Reallocating scene render targets to support 1204x712 Format 10 NumSamples 1 (Frame:1).
+[2020.06.30-06.37.55:092][  0]LogSlate: Took 0.020298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.30-06.37.55:294][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.30-06.37.55:294][  0]LogLoad: (Engine Initialization) Total time: 13.92 seconds
+[2020.06.30-06.37.55:294][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.30-06.37.55:373][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.30-06.37.55:913][  5]LogAssetRegistry: Asset discovery search completed in 9.8976 seconds
+[2020.06.30-06.37.55:917][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.06.30-06.40.18:874][459]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-06.40.19:049][459]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-06.43.20:976][404]LogEditorViewport: Clicking on Actor (LMB): Road_4_C (Road_5)
+[2020.06.30-06.43.35:072][775]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.30-06.43.35:096][775]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Road_4.Road_4
+[2020.06.30-06.43.35:589][775]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.06.30-06.43.37:077][775]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.30-06.43.37:275][776]LogSlate: Took 0.016973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.30-06.44.21:421][818]BlueprintLog: New page: Compile Road_4
+[2020.06.30-06.44.21:746][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.06.30-06.47.55:754][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.06.30-06.47.57:093][ 24]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/ThirdPersonExampleMap_Auto1028E7ED14337D28929B89CA78B4BBF50.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.06.30-06.47.57:095][ 24]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.386
+[2020.06.30-06.47.57:095][ 24]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.386
+[2020.06.30-06.47.57:095][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Road_4] ([1] browsable assets)...
+[2020.06.30-06.47.57:095][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Road_4]
+[2020.06.30-06.47.57:095][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road_4" FILE="../../../../../../Desktop/street generator/Generator/Genearator/Saved/Autosaves/Game/Road_4_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.06.30-06.47.57:146][ 24]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/Road_4_Auto10D6F80C54678EC0A24409C8692C02784.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Saved/Autosaves/Game/Road_4_Auto1.uasset'
+[2020.06.30-06.47.57:147][ 24]LogFileHelpers: Auto-saving content packages took 0.053
+[2020.06.30-06.58.12:961][333]LogEditorTransaction: Undo Resize Node
+[2020.06.30-06.58.14:425][351]LogEditorTransaction: Undo Delete current selection
+[2020.06.30-06.58.15:614][363]LogEditorTransaction: Undo Add Node
+[2020.06.30-06.58.16:544][373]LogEditorTransaction: Undo Resize Node
+[2020.06.30-06.58.49:588][578]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.06.30-06.58.50:978][578]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/ThirdPersonExampleMap_Auto2061AE1274E2ADD0CD54276B8FFE1E491.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.06.30-06.58.50:980][578]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.463
+[2020.06.30-06.58.50:980][578]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.463
+[2020.06.30-06.58.50:981][578]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Road_4] ([1] browsable assets)...
+[2020.06.30-06.58.50:981][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/Road_4]
+[2020.06.30-06.58.50:981][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road_4" FILE="../../../../../../Desktop/street generator/Generator/Genearator/Saved/Autosaves/Game/Road_4_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.06.30-06.58.51:092][578]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/Road_4_Auto27844361946856B79E9237B87270C8AC9.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Saved/Autosaves/Game/Road_4_Auto2.uasset'
+[2020.06.30-06.58.51:094][578]LogFileHelpers: Auto-saving content packages took 0.113
+[2020.06.30-07.02.58:215][316]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.30-07.02.58:215][316]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.30-07.07.05:661][563]LogEditorTransaction: Undo Create Pin Link
+[2020.06.30-07.07.40:287][774]BlueprintLog: New page: Compile Road_4
+[2020.06.30-07.07.40:298][774]LogBlueprint: Error: [Compiler Road_4] This blueprint (self) is not a StaticMeshComponent, therefore ' Target ' must have a connection.
+[2020.06.30-07.07.40:836][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.06.30-07.08.51:551][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.06.30-07.08.52:185][993]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/ThirdPersonExampleMap_Auto337D289784A547F9313EC478372F338E4.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2020.06.30-07.08.52:186][993]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.670
+[2020.06.30-07.08.52:186][993]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.670
+[2020.06.30-07.08.52:186][993]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Road_4] ([1] browsable assets)...
+[2020.06.30-07.08.52:187][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/Road_4]
+[2020.06.30-07.08.52:187][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road_4" FILE="../../../../../../Desktop/street generator/Generator/Genearator/Saved/Autosaves/Game/Road_4_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.06.30-07.08.52:221][993]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/Road_4_Auto34199A7594DDEA887AA101E8C61D577BC.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Saved/Autosaves/Game/Road_4_Auto3.uasset'
+[2020.06.30-07.08.52:222][993]LogFileHelpers: Auto-saving content packages took 0.035
+[2020.06.30-07.10.02:093][363]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Desktop\street generator\Models\lamppost.fbx)
+[2020.06.30-07.10.02:262][363]LogFbx: Loading FBX Scene from D:\Desktop\street generator\Models\lamppost.fbx
+[2020.06.30-07.10.02:301][363]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.30-07.10.03:803][363]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.30-07.10.04:144][363]LogFbx: Display: Triangulating static mesh lamp_inside___emmisive
+[2020.06.30-07.10.04:249][363]LogStaticMesh: Building static mesh lamppost_lamp_inside___emmisive...
+[2020.06.30-07.10.04:250][363]LogStaticMesh: Built static mesh [0.00s] /Game/ImportedModels/lamppost_lamp_inside___emmisive.lamppost_lamp_inside___emmisive
+[2020.06.30-07.10.04:273][363]LogFbx: Display: Triangulating static mesh lamppost
+[2020.06.30-07.10.04:512][363]LogStaticMesh: Building static mesh lamppost_lamppost...
+[2020.06.30-07.10.04:660][363]LogStaticMesh: Built static mesh [0.15s] /Game/ImportedModels/lamppost_lamppost.lamppost_lamppost
+[2020.06.30-07.10.04:675][363]LogStaticMesh: Warning: lamppost_lamppost has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.06.30-07.10.04:675][363]LogStaticMesh: Warning: lamppost_lamppost has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.06.30-07.10.04:675][363]LogStaticMesh: Warning: lamppost_lamppost has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.06.30-07.10.04:697][363]LogFbx: Display: Triangulating static mesh lamp_inside___emmisive1
+[2020.06.30-07.10.04:700][363]LogStaticMesh: Building static mesh lamppost_lamp_inside___emmisive1...
+[2020.06.30-07.10.04:702][363]LogStaticMesh: Built static mesh [0.00s] /Game/ImportedModels/lamppost_lamp_inside___emmisive1.lamppost_lamp_inside___emmisive1
+[2020.06.30-07.10.04:745][363]FBXImport: Warning: lamppost_lamppost has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.06.30-07.10.04:745][363]FBXImport: Warning: lamppost_lamppost has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2020.06.30-07.10.04:745][363]FBXImport: Warning: lamppost_lamppost has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.06.30-07.10.19:940][830]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-07.10.19:963][830]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-07.10.21:383][868]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ImportedModels/lamppost_lamppost.lamppost_lamppost
+[2020.06.30-07.10.22:848][869]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.06.30-07.10.24:849][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ImportedModels/lamppost_lamppost" FILE="../../../../../../Desktop/street generator/Generator/Genearator/Content/ImportedModels/lamppost_lamppost.uasset" SILENT=true
+[2020.06.30-07.10.24:899][917]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/lamppost_lamppost3B45A8804C9C808F3E34859E3B8DA9B4.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Content/ImportedModels/lamppost_lamppost.uasset'
+[2020.06.30-07.10.24:928][917]AssetCheck: New page: Asset Save: lamppost_lamppost
+[2020.06.30-07.10.24:928][917]LogContentValidation: Display: Validating StaticMesh /Game/ImportedModels/lamppost_lamppost.lamppost_lamppost
+[2020.06.30-07.10.37:722][350]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/lamppost_lamp_inside___emmisive14150549B48771D7B7B895A9B7EDEF500.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Content/ImportedModels/lamppost_lamp_inside___emmisive1.uasset'
+[2020.06.30-07.10.37:758][350]AssetCheck: New page: Asset Save: lamppost_lamp_inside___emmisive1
+[2020.06.30-07.10.37:759][350]LogContentValidation: Display: Validating StaticMesh /Game/ImportedModels/lamppost_lamp_inside___emmisive1.lamppost_lamp_inside___emmisive1
+[2020.06.30-07.10.39:716][426]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/lamppost_lamp_inside___emmisive191700E24DB671A70AD0B09F1280F283.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Content/ImportedModels/lamppost_lamp_inside___emmisive.uasset'
+[2020.06.30-07.10.39:739][426]AssetCheck: New page: Asset Save: lamppost_lamp_inside___emmisive
+[2020.06.30-07.10.39:739][426]LogContentValidation: Display: Validating StaticMesh /Game/ImportedModels/lamppost_lamp_inside___emmisive.lamppost_lamp_inside___emmisive
+[2020.06.30-07.10.58:887][575]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-07.10.58:887][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-07.11.17:949][355]LogSlate: Took 0.289967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.06.30-07.11.40:079][443]BlueprintLog: New page: Compile Road_4
+[2020.06.30-07.11.40:548][443]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.06.30-07.12.39:460][991]BlueprintLog: New page: Compile Road_4
+[2020.06.30-07.12.39:767][991]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.06.30-07.12.40:432][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road_4" FILE="../../../../../../Desktop/street generator/Generator/Genearator/Content/Road_4.uasset" SILENT=true
+[2020.06.30-07.12.40:469][ 10]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/Road_4C641E3DB46E7A198487F87A31A41AC2E.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Content/Road_4.uasset'
+[2020.06.30-07.12.40:495][ 10]AssetCheck: New page: Asset Save: Road_4
+[2020.06.30-07.12.40:496][ 10]LogContentValidation: Display: Validating Blueprint /Game/Road_4.Road_4
+[2020.06.30-07.16.05:203][  1]BlueprintLog: New page: Compile Road_4
+[2020.06.30-07.16.05:537][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.06.30-07.16.42:650][450]BlueprintLog: New page: Compile Road_4
+[2020.06.30-07.16.42:948][450]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.06.30-07.16.46:696][591]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.06.30-07.16.47:125][591]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/ThirdPersonExampleMap4EB484C9488BBF1EBC9551BC317D2ED3.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.30-07.16.47:327][591]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/ThirdPersonExampleMap_BuiltData6FFE0D8649350CA4F441138569850A35.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.30-07.16.47:360][591]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-07.16.47:360][591]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.30-07.16.47:360][591]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.06.30-07.16.51:931][816]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-07.16.52:254][829]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-07.16.53:513][943]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-07.16.54:652][ 21]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-07.16.56:515][148]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-07.16.57:591][194]LogEditorViewport: Clicking on Actor (LMB): Road_4_C (Road_5)
+[2020.06.30-07.18.01:865][135]LogEditorViewport: Clicking on Actor (LMB): Road_4_C (Road_5)
+[2020.06.30-07.19.16:603][424]LogEditorTransaction: Undo Delete current selection
+[2020.06.30-07.20.11:689][529]BlueprintLog: New page: Compile Road_4
+[2020.06.30-07.20.13:305][529]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:0023
+[2020.06.30-07.20.13:305][529]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.20.13:305][529]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.20.13:588][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.06.30-07.20.13:755][529]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:0023
+[2020.06.30-07.20.13:755][529]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.20.13:755][529]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.20.13:926][529]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:0023
+[2020.06.30-07.20.13:926][529]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.20.13:926][529]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.20.14:755][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road_4" FILE="../../../../../../Desktop/street generator/Generator/Genearator/Content/Road_4.uasset" SILENT=true
+[2020.06.30-07.20.14:801][550]LogSavePackage: Moving '../../../../../../Desktop/street generator/Generator/Genearator/Saved/Road_40C50377E44451A5A6511879717736098.tmp' to '../../../../../../Desktop/street generator/Generator/Genearator/Content/Road_4.uasset'
+[2020.06.30-07.20.14:828][550]AssetCheck: New page: Asset Save: Road_4
+[2020.06.30-07.20.14:828][550]LogContentValidation: Display: Validating Blueprint /Game/Road_4.Road_4
+[2020.06.30-07.20.19:630][689]LogEditorViewport: Clicking on Actor (LMB): Road_4_C (Road_5)
+[2020.06.30-07.20.20:286][711]LogEditorViewport: Clicking on Actor (LMB): Road_4_C (Road_5)
+[2020.06.30-07.20.20:788][729]LogEditorViewport: Clicking on Actor (LMB): Road_4_C (Road_5)
+[2020.06.30-07.20.21:547][756]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-07.20.57:020][362]LogEditorViewport: Clicking on Actor (LMB): Road_4_C (Road_5)
+[2020.06.30-07.21.24:857][550]LogEditorTransaction: Undo Add Node
+[2020.06.30-07.21.25:057][550]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:0023
+[2020.06.30-07.21.25:057][550]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.21.25:057][550]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.21.48:431][521]BlueprintLog: New page: Compile Road_4
+[2020.06.30-07.21.48:637][521]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:0023
+[2020.06.30-07.21.48:637][521]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.21.48:637][521]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:02A0
+[2020.06.30-07.21.48:637][521]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.21.48:919][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.06.30-07.21.49:088][521]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:0023
+[2020.06.30-07.21.49:088][521]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.21.49:088][521]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:02A0
+[2020.06.30-07.21.49:088][521]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.21.49:262][521]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:0023
+[2020.06.30-07.21.49:262][521]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.21.49:262][521]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:02A0
+[2020.06.30-07.21.49:262][521]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.22.43:099][691]BlueprintLog: New page: Compile Road_4
+[2020.06.30-07.22.43:297][691]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:0023
+[2020.06.30-07.22.43:297][691]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.22.43:297][691]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:02A0
+[2020.06.30-07.22.43:297][691]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.22.43:575][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.06.30-07.22.43:746][691]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:0023
+[2020.06.30-07.22.43:747][691]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.22.43:747][691]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:02A0
+[2020.06.30-07.22.43:747][691]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.22.43:919][691]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:0023
+[2020.06.30-07.22.43:919][691]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.22.43:919][691]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:02A0
+[2020.06.30-07.22.43:919][691]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.23.21:529][439]LogScript: Warning: Accessed None trying to read property Lamppost
+	Road_4_C /Engine/Transient.World_2:PersistentLevel.Road_4_C_0
+	Function /Game/Road_4.Road_4_C:StreetLamps:0023
+[2020.06.30-07.23.21:529][439]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.23.21:529][439]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.23.43:559][340]BlueprintLog: New page: Compile Road_4
+[2020.06.30-07.23.43:747][340]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.23.43:747][340]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.23.44:021][340]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.06.30-07.23.44:181][340]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.23.44:182][340]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.23.44:353][340]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.23.44:353][340]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.15:939][817]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.15:939][817]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.23:167][ 95]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.23:167][ 95]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.26:771][232]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.26:772][232]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.33:916][516]BlueprintLog: New page: Compile Road_4
+[2020.06.30-07.24.33:962][516]LogScript: Warning: Script Msg: Divide by zero detected: 14674.914063 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.33:963][516]LogScript: Warning: Script Msg: Divide by zero detected: 14674.914063 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.33:968][516]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.33:968][516]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.34:241][516]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.06.30-07.24.34:279][516]LogScript: Warning: Script Msg: Divide by zero detected: 14674.914063 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.34:281][516]LogScript: Warning: Script Msg: Divide by zero detected: 14674.914063 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.34:286][516]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.34:286][516]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.34:316][516]LogScript: Warning: Script Msg: Divide by zero detected: 14674.914063 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.34:318][516]LogScript: Warning: Script Msg: Divide by zero detected: 14674.914063 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.34:324][516]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.24.34:324][516]LogScript: Warning: Script Msg: Divide by zero detected: 100.000000 / 0
+Script call stack:
+	Function /Game/Road_4.Road_4_C:UserConstructionScript
+	Function /Game/Road_4.Road_4_C:StreetLamps
+
+[2020.06.30-07.27.40:658][332]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.30-07.27.40:770][332]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.30-07.27.40:770][332]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2020.06.30-07.27.40:772][332]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 930963456
+	 AvailableVirtual 140686385000448
+	     UsedPhysical 20282167296
+	 PeakUsedPhysical 20857565184
+	      UsedVirtual 45087772672
+	  PeakUsedVirtual 45092040704
+[2020.06.30-07.27.40:774][332]Allocator Stats for TBB: (not implemented)
+[2020.06.30-07.27.40:869][332]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+Road_4_C.StreetLamps
+Road_4_C.UserConstructionScript
+
+[2020.06.30-07.27.40:884][332]LogWindows: Windows GetLastError: The operation completed successfully. (0)
